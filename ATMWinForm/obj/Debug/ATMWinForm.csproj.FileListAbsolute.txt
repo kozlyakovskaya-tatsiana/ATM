@@ -1,0 +1,20 @@
+E:\Универ\3 семестр\Programming languages\Labs\ATMWinForm\ATMWinForm\bin\Debug\ATMWinForm.exe.config
+E:\Универ\3 семестр\Programming languages\Labs\ATMWinForm\ATMWinForm\bin\Debug\ATMWinForm.exe
+E:\Универ\3 семестр\Programming languages\Labs\ATMWinForm\ATMWinForm\bin\Debug\ATMWinForm.pdb
+E:\Универ\3 семестр\Programming languages\Labs\ATMWinForm\ATMWinForm\obj\Debug\ATMWinForm.csprojResolveAssemblyReference.cache
+E:\Универ\3 семестр\Programming languages\Labs\ATMWinForm\ATMWinForm\obj\Debug\ATMWinForm.Form1.resources
+E:\Универ\3 семестр\Programming languages\Labs\ATMWinForm\ATMWinForm\obj\Debug\ATMWinForm.Properties.Resources.resources
+E:\Универ\3 семестр\Programming languages\Labs\ATMWinForm\ATMWinForm\obj\Debug\ATMWinForm.csproj.GenerateResource.cache
+E:\Универ\3 семестр\Programming languages\Labs\ATMWinForm\ATMWinForm\obj\Debug\ATMWinForm.csproj.CoreCompileInputs.cache
+E:\Универ\3 семестр\Programming languages\Labs\ATMWinForm\ATMWinForm\obj\Debug\ATMWinForm.exe
+E:\Универ\3 семестр\Programming languages\Labs\ATMWinForm\ATMWinForm\obj\Debug\ATMWinForm.pdb
+E:\Универ\2 course\3 семестр\Programming languages\Labs\ATMWinForm\ATMWinForm\bin\Debug\ATMWinForm.exe.config
+E:\Универ\2 course\3 семестр\Programming languages\Labs\ATMWinForm\ATMWinForm\bin\Debug\ATMWinForm.exe
+E:\Универ\2 course\3 семестр\Programming languages\Labs\ATMWinForm\ATMWinForm\bin\Debug\ATMWinForm.pdb
+E:\Универ\2 course\3 семестр\Programming languages\Labs\ATMWinForm\ATMWinForm\obj\Debug\ATMWinForm.csprojResolveAssemblyReference.cache
+E:\Универ\2 course\3 семестр\Programming languages\Labs\ATMWinForm\ATMWinForm\obj\Debug\ATMWinForm.Form1.resources
+E:\Универ\2 course\3 семестр\Programming languages\Labs\ATMWinForm\ATMWinForm\obj\Debug\ATMWinForm.Properties.Resources.resources
+E:\Универ\2 course\3 семестр\Programming languages\Labs\ATMWinForm\ATMWinForm\obj\Debug\ATMWinForm.csproj.GenerateResource.cache
+E:\Универ\2 course\3 семестр\Programming languages\Labs\ATMWinForm\ATMWinForm\obj\Debug\ATMWinForm.csproj.CoreCompileInputs.cache
+E:\Универ\2 course\3 семестр\Programming languages\Labs\ATMWinForm\ATMWinForm\obj\Debug\ATMWinForm.exe
+E:\Универ\2 course\3 семестр\Programming languages\Labs\ATMWinForm\ATMWinForm\obj\Debug\ATMWinForm.pdb
